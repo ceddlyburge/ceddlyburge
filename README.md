@@ -1,37 +1,7 @@
-### Hi there 👋
+I am a software developer passionate about social and environmental justice. I mostly program in Elm, C#, Python, Typescript and Delphi. I mentor on Exercism and for Code First Girls, and maintain the [Elm track](https://exercism.io/tracks/elm) on Exercism.
 
-<!--
-twitter
+I find that books can be an excellent way to learn ideas and concepts, and I wish I had discovered the good ones earlier in my career. It's easier to discover them now that we have virtual communities on the internet, and ratings websites and similar. You can read [my book recommendations](https://medium.com/res-software-team/book-recommendations-2c46dedd44af), and see a [full list of books I have read / reviewed on goodreads](https://www.goodreads.com/review/list/73607048-cedd?shelf=read).
 
-blogs
-- selected
- - thought
-- freecodecamp
-- medium
-- appveyor website
+I also find that writing is an excellent way to make sure I have understood something, and to spread knowledge. [Cost effective Coding Guidelines](https://medium.com/res-software-team/res-cost-effective-coding-guidelines-bd26f537b5e4), [Embedding Domain Concepts in Code](https://www.freecodecamp.org/news/embedding-domain-concepts-in-code/) and [Writing Describable Code](https://www.freecodecamp.org/news/writing-describable-code/) are hopefully interesting reads, and are applicable to all programming languages. The [full list is at blog-posts.md](blog-posts.md).
 
-book recommendations (blog post and goodreads)
-
-code?
-- frameworks (docs from tests, customer tests excel)
-- hobby projects (league tables, canoe polo)
-
-exercism mentor / maintainer
- - link to elm track maintainers bit
-
-codefirstgirls? feminist? social justice? climate justice?
-
-
-**ceddlyburge/ceddlyburge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have created a few frameworks, [CustomerTestsExcel](https://github.com/resgroup/customer-tests-excel), [DocsFromTests](https://github.com/resgroup/docs-from-tests) and [Configuration](https://github.com/resgroup/configuration). I play [canoe polo](https://canoepolo.org.uk/) in my spare time, and have a couple of related hobby projects. One is a web front end to show [league tables based on a google spreadsheet](https://github.com/ceddlyburge/elm-league-tables-from-google-sheets), and another is a [phone app to help orgranise tournaments](https://github.com/ceddlyburge/CanoePoloLeagueOrganiser) (which will be replaced by the web app before too long).
