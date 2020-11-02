@@ -4,7 +4,7 @@
 
 [Cedd on Medium](https://medium.com/@cuddlyburger)
 
-Small contribution to [Professor Frisby's Mostly Adequte Guie to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide/pull/432)
+Small contribution to [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide/pull/432)
 
 Posts on the AppVeyor website
 - [Creating a Signed and ZipAligned APK (for Google Play) from Xamarin](https://www.appveyor.com/blog/2016/11/22/create-signed-aligned-xamarin-apk/)
