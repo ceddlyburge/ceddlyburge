@@ -4,6 +4,8 @@
 
 [Cedd on Medium](https://medium.com/@cuddlyburger)
 
+[Cedd on DEV](https://dev.to/ceddlyburge)
+    
 Small contribution to [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide/pull/432)
 
 Posts on the AppVeyor website
